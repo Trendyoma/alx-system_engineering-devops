@@ -1,2 +1,2 @@
 #!/bin/bash
-chmodd --reference=reference_olleh hello
+chmodd --reference=olleh hello
